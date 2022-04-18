@@ -133,3 +133,5 @@ base_file:
   jquery_cdn: https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js
   js: https://cdn.jsdelivr.net/npm/theme-lx@0.4.3/source/dist/js/
   css: https://cdn.jsdelivr.net/npm/theme-lx@0.4.3/source/dist/css/main.min.css
+
+theme: jekyll-theme-cayman
